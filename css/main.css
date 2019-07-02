@@ -1,0 +1,63 @@
+body {
+    margin: 60px auto;
+    width: 80%;
+}
+
+nav ul, footer ul {
+    font-family: 'Roboto Mono', monospace;
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+}
+
+nav ul li, footer ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+a {
+    font-family: 'Catamaran', sans-serif;
+    text-decoration: none;
+    color: #021a1a;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+h1 {
+    font-size: 3em;
+    font-family: 'Roboto Mono', monospace;
+	color: #001933;
+}
+h2 {
+    font-size: 2em;
+    font-family: 'Roboto Mono', monospace;
+	color: #001933;
+}
+
+p {
+    font-family: 'Catamaran', sans-serif;
+    font-size: 1.2em;
+    line-height: 1.2em;
+    color: #331900;
+}
+
+footer {
+    border-top: 1px solid #d5d5d5;
+    font-size: .8em;
+}
+
+ul.posts { 
+    margin: 20px auto 40px; 
+    font-size: 1.2em;
+}
+
+ul.posts li {
+    list-style: none;
+}
+
+ul.posts li p { 
+    margin: 20px auto 40px; 
+    font-size: 1em;
+}

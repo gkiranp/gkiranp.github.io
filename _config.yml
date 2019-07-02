@@ -1,0 +1,7 @@
+encoding: UTF-8
+name: Kiran | Binary-Root
+markdown: kramdown
+excerpt_separator: <!--more-->
+
+permalink: /blog/:year/:month/:day/:title
+permalink: /complexprogram/:year/:month/:day/:title
