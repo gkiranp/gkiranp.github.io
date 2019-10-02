@@ -5,15 +5,18 @@ title: Binary-Root | Kiran's Blog
 <div class="blurb">
 	<h2> Kiran's Blog | Binary Root </h2>
 	
-	<div class="profile">
-		{% include biopage.html %}
-	</div>
-	<hr>
 	<div class "tags">
 		{% include archive.html %}
 	</div>
 	<hr>
-	<div class="postlist">
-		{% include post_list.html %}
+
+	<div class="row">
+	  <div class="column left" style="background-color:#E0E0E0;">
+	    {% include biopage.html %}
+	  </div>
+	  <div class="column right" style="background-color:#CCFFCC;">
+	    {% include post_list.html %}
+	  </div>
 	</div>
+	
 </div><!-- /.blurb -->
