@@ -22,12 +22,12 @@ body {
     width: 75%;
 }
   
-  /* Clear floats after the columns */
+  /* Clear floats after the columns * /
 .row:after {
     content: "";
     display: table;
     clear: both;
-}
+}*/
 
 nav ul, footer ul {
     font-family: 'Roboto Mono', monospace;
