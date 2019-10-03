@@ -54,7 +54,7 @@ any cell we shall ignore it if it is already covered in current path.
 
 Here is C++11 based solution for the same:
 
-```
+```C++
 #include <iostream>
 #include <vector>
 using namespace std;
@@ -75,14 +75,14 @@ const int N = 10;
 //Define MxN Matrix
 std::vector<std::vector<int>>Mat {  { 1, 0, 1, 1, 1, 1, 0, 1, 1, 1 },
                                     { 1, 0, 1, 0, 1, 1, 1, 0, 1, 1 },
-		                            { 1, 1, 1, 0, 1, 1, 0, 1, 0, 1 },
-		                            { 0, 0, 0, 0, 1, 0, 0, 1, 0, 0 },
-		                            { 1, 0, 0, 0, 1, 1, 1, 1, 1, 1 },
-		                            { 1, 1, 1, 1, 1, 1, 1, 1, 1, 0 },
-		                            { 1, 0, 0, 0, 1, 0, 0, 1, 0, 1 },
-		                            { 1, 0, 1, 1, 1, 1, 0, 0, 1, 1 },
-		                            { 1, 1, 0, 0, 1, 0, 0, 0, 0, 1 },
-		                            { 1, 0, 1, 1, 1, 1, 0, 1, 0, 0 }    };
+                                    { 1, 1, 1, 0, 1, 1, 0, 1, 0, 1 },
+                                    { 0, 0, 0, 0, 1, 0, 0, 1, 0, 0 },
+                                    { 1, 0, 0, 0, 1, 1, 1, 1, 1, 1 },
+                                    { 1, 1, 1, 1, 1, 1, 1, 1, 1, 0 },
+                                    { 1, 0, 0, 0, 1, 0, 0, 1, 0, 1 },
+                                    { 1, 0, 1, 1, 1, 1, 0, 0, 1, 1 },
+                                    { 1, 1, 0, 0, 1, 0, 0, 0, 0, 1 },
+                                    { 1, 0, 1, 1, 1, 1, 0, 1, 0, 0 }    };
 
 //Declaring another Matrix of MxN to keep track of Visited cells
 std::vector<std::vector<int>>Visited;
