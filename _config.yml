@@ -1,7 +1,66 @@
-encoding: UTF-8
-name: Kiran | Binary-Root
+### your site title here
+
+title: Kiran 
+description: Kiran's Blog | Binary Root
+
+baseurl: /gkiranp #name of GitHub repository
+url: #custom url to be used instead of GitHub repository
+email: gkiranp@gmail.com
+
+
+highlighter: rouge
 markdown: kramdown
 excerpt_separator: <!--more-->
 
-permalink: /blog/:year/:month/:day/:title
-permalink: /complexprogram/:year/:month/:day/:title
+# Pagination
+paginate: 4
+permalink: /blog/:year/:title/
+paginate_path: /blog/page:num/
+
+# Social media links in footer
+facebook: "#"
+twitter: "#"
+linkedin: "kiranpuranik"
+github: "gkiranp"
+stackoverflow: "kiranpuranik"
+orcid: "#"
+
+highlighter: rouge
+markdown: kramdown
+
+# Tracker
+analytics:
+
+#optimization -> compress.html
+compress_html:
+  clippings: [html,div, p, ul, td, h1, h2, h3, h4,link, meta, footer, nav, img, header, hr, br, head, style, li, ul, ol, time, main, script, title]
+  comments: ["<!-- ", " -->"]
+  endings: [all]
+  ignore:
+    envs: [local]
+  blanklines: false
+  profile: false
+  startings: []
+
+#collection
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+
+sass:
+  sass_dir: /assets/css/_sass
+  style: compressed
+
+include:
+  - _pages
+
+exclude:
+  - README.md
+  - LICENSE.md
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-email-protect
+  - jekyll-target-blank
