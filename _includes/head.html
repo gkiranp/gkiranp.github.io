@@ -1,26 +1,19 @@
 <head>
-	<meta charset="utf-8">
-	<meta name="viewport" width="device-width, initial-scale=1.0">
-	<meta name="description" content="{{ page.description }}">
-	<meta name="author" content="~ Kiran">
-	<!-- favicon
-	<link rel="shortcut icon" href="/img/ico/favicon.png">
-	-->
-	<link href="https://fonts.googleapis.com/css?family=Roboto+Mono" rel="stylesheet">
-	<link href="https://fonts.googleapis.com/css?family=Exo+2" rel="stylesheet">
-	<link href="https://fonts.googleapis.com/css?family=Catamaran" rel="stylesheet">
-	<link href="https://fonts.googleapis.com/css?family=Kalam" rel="stylesheet">
-	<link href="https://fonts.google.com/specimen/B612" rel="stylesheet">
-	<link href="https://fonts.google.com/specimen/Muli" rel="stylesheet">
-	
-	<title>{{ page.title }} | Kiran | Software Designer, Developer, Programmer.</title>
-	
-	<!-- link to main stylesheet -->
-	<link rel="stylesheet" type="text/css" href="/css/main.css">
-		
-	<!-- google analytics -->
-	{% include analytics.html %}
-	{% if site.tags != "" %}
-		{% include collecttags.html %}
-	{% endif %}
+	<!-- Meta -->
+	<meta charset="UTF-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+	<meta name="generator" content="Jekyll">
+
+	<title>{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <meta name="description" content="{%if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+
+	<!-- CSS & fonts -->
+	<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl | replace: '//', '/' }}">
+
+	<!-- RSS -->
+	<link href="/atom.xml" type="application/atom+xml" rel="alternate" title="ATOM Feed" />
+
+  <!-- Favicon -->
+  <link rel="shortcut icon" type="image/png" href="img/favicon.png">
+
 </head>

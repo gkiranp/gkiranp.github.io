@@ -1,7 +1,39 @@
-encoding: UTF-8
-name: Kiran | Binary-Root
-markdown: kramdown
-excerpt_separator: <!--more-->
+# Site settings
+title: Binary Root | A blog about Life and Lifestyle
+url: "https://gkiranp.github.io"
+author:
+name: "Kiran"
+email: "mail2kirangp@gmail.com"
+url: "https://gkiranp.github.io"
 
-permalink: /blog/:year/:month/:day/:title
-permalink: /complexprogram/:year/:month/:day/:title
+# Build settings
+encoding: UTF-8
+excerpt_separator: <!--more-->
+baseurl: /
+markdown: kramdown
+source: .
+permalink: /:title
+paginate: 8
+paginate_path: /page:num/
+
+# Default values
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Plugins
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+
+# Custom variables
+version: "1.0.0"
+
+# Options
+custom_header: false
+custom_nav_footer: false
+reverse: false
