@@ -6,19 +6,6 @@ author: Kiran
 email: mail2kirangp@gmail.com
 url: "https://gkiranp.github.io"
 
-# Front matter settings
-jekyll_compose:
-  post_default_front_matter:
-    last_modified_at: 
-    permalink: /:title
-    description:
-    image:
-    published: true
-    sitemap: true
-    excerpt_separator: <!--more-->
-    categories:
-    tags:
-
 # Build settings
 encoding: UTF-8
 excerpt_separator: <!--more-->
