@@ -1,9 +1,23 @@
 # Site settings
+timezone: Asia/Kolkata
 title: Binary Root | A blog about Life and everything
 url: https://gkiranp.github.io
 author: Kiran
 email: mail2kirangp@gmail.com
 url: "https://gkiranp.github.io"
+
+# Front matter settings
+jekyll_compose:
+  post_default_front_matter:
+    last_modified_at: 
+    permalink: /:title
+    description:
+    image:
+    published: true
+    sitemap: true
+    excerpt_separator: <!--more-->
+    categories:
+    tags:
 
 # Build settings
 encoding: UTF-8
@@ -26,6 +40,7 @@ defaults:
 
 # Plugins
 gems:
+  - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-sitemap
 

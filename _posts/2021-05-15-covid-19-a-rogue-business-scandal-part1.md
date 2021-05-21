@@ -1,13 +1,17 @@
 ---
 layout: post
 excerpt_separator: <!--more-->
-title: "Covid-19 A Rogue Business Scandal - (part 1) the Beginning"
-date: 2021-05-15
+title: "Covid-19, A Rogue Business Scandal - (part 1) the Beginning"
+permalink: covid19-rogue-business-scandal-part1
+description: This is about Covid-19, a big business scandal happening world wide, and especially in India. 
+I have taken my state as an example though, it is sure applicable to every human beings on this planet.
+date: 2021-05-15 10:28:08 +0530
+last_modified_at: 2021-05-15 11:55:00 +0530
 tags: covid-19 scandal business
 ---
 
  
-> *__Namaskara dear readers:__ Many have lost their loved ones in this Covid-19 pandemic. In the month of Oct 2020, I lost my beloved father for the first wave of coronavirus in India. I was there with him at the hospital, and saw him die slowly day by day. My soul was deeply sobbing inside, descended and shattered for my own helplessness. I had passed through depression and anxiety days, remembering and reliving those times in my own hell. Today, I am stable enough to write what I have seen and sensed. The Covid-19 is huge, something very huge, where the entire world is part of this scandal. Though, I have no proof of anything I have claimed here, I don’t care either whether anybody has been convinced about what I wrote. But yeah, that’s the beauty of the system involved in this Scandal. However, there are missing links between the dots, because I am not able to imagine the big picture, but I am conscious enough to sense what’s happening around. This scandal was designed to cause both disgrace and damage to the reputation of our country and maybe the central ruling party. This will not end soon, unfortunately, it might get worse in the coming days.* <!--more-->
+> *__Namaskara dear readers:__ My hearty condolences to those who have lost their loved ones in this Covid-19 pandemic. In the month of Oct 2020, I lost my beloved father for the first wave of coronavirus in India. I was there with him at the hospital, and saw him die slowly day by day. My soul was deeply sobbing inside, descended and shattered for my own helplessness. I had passed through depression and anxiety days, remembering and reliving those times in my own hell. Today, I am stable enough to write what I have seen and sensed. The Covid-19 is huge, something very huge, where the entire world is part of this scandal. Though, I have no proof of anything I have claimed here, I don’t care either whether anybody has been convinced about what I wrote. But yeah, that’s the beauty of the system involved in this Scandal. However, there are missing links between the dots, because I am not able to imagine the big picture, but I am conscious enough to sense what’s happening around. This scandal was designed to cause both disgrace and damage to the reputation of our country and maybe the central ruling party. This will not end soon, unfortunately, it might get worse in the coming days.* <!--more-->
 
 
 Everybody knows the theory behind this virus. It originated from Wuhan city in China and spread across the world by human to human close contact. And, later there were different versions of this theory, and our dearest media has helped to trace down the patient.zero from China, by whom it is believed that the chain reaction has originated. This is no less than any Sci-fi movie story, but ground reality is much more different. If you ask me, did China design this virus in a Wuhan laboratory? I say no. This was an artifice by certain forces, involving the media, to divert the attention and to defame few countries at large. But, of course China has a major role in spreading this to the whole world and has profiteered largely in an international market when the whole globe was devastating in sorrow and pain. Meanwhile, strategically China has also managed to corroborate nowhere in the pages of history neither China nor Wuhan has been termed for such a disaster.
