@@ -3,8 +3,7 @@ layout: default
 ---
 <article id="post-page">
 	<h2>{%if page.header %}{{ page.header }}{% else %}{{ page.title }}{% endif %}</h2>		
-	<time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time>
-	<span class="by-line"> {% assign author = site.author[page.author] %} By: {{ author.name }} </span>
+	<time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }} | By: {{ page.author }}</time>
 	<div class="content">
 
 		{{ content }}

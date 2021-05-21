@@ -1,10 +1,9 @@
 # Site settings
 title: Binary Root | A blog about Life and everything
 url: "https://gkiranp.github.io"
-author:
-  name: "Kiran"
-  email: "mail2kirangp@gmail.com"
-  url: "https://gkiranp.github.io"
+author: "Kiran" 
+email: "mail2kirangp@gmail.com"
+url: "https://gkiranp.github.io"
 
 # Build settings
 encoding: UTF-8
