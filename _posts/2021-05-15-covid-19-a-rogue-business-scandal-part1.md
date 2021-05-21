@@ -2,7 +2,6 @@
 layout: post
 excerpt_separator: <!--more-->
 title: "Covid-19, A Rogue Business Scandal - (part 1) the Beginning"
-permalink: covid19-rogue-business-scandal-part1
 description: This is about Covid-19, a big business scandal happening world wide, and especially in India. 
 I have taken my state as an example though, it is sure applicable to every human beings on this planet.
 date: 2021-05-15 10:28:08 +0530
