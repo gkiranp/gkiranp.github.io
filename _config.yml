@@ -1,5 +1,4 @@
 # Site settings
-timezone: Asia/Kolkata
 title: Binary Root | A blog about Life and everything
 url: https://gkiranp.github.io
 author: Kiran
@@ -27,7 +26,6 @@ defaults:
 
 # Plugins
 gems:
-  - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-sitemap
 
