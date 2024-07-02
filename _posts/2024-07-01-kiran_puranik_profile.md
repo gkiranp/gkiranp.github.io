@@ -1,19 +1,20 @@
 ---
 layout: post
 excerpt_separator: <!--more-->
-title: "Kiran Puranik - Experience Summary"
+title: "My Experience Summary"
 date: 2024-07-01
 tags: resume experience cv
 ---
 
  
-> *With over 15 years of experience, I have cultivated a multifaceted professional journey that traverses the realms of Semiconductor Design Validation and System Software Development. At my current role in Intel, my tenure as a Senior IP Verification Engineer has been characterized by intricate involvement in the verification of critical IPs for Intel's forthcoming silicon innovations. My responsibilities primarily focused on validating High-Speed IO (HIOP: Host IO Processor) integral to the Xeon6 Server IP, adhering strictly to PCIe 6.0 protocol specifications to ensure compliance with industry standards and Intel's quality benchmarks. Gathered and defined requirements and test specifications for validation plans and Python-based test cases, aligning them with FPGA and Simics simulation requirements.*
-> *In my preceding role at UST Global, as the Tech Lead and Senior Developer, I navigated the intricate world of technical project coordination. My ability to orchestrate the efforts of a team and ensure the timely completion of projects, underscores my leadership and organizational skills. The development of the 'System Mode and Redundancy' module, aligning with the EN50128 safety standard, demonstrates my mastery over intricate system transitions and redundancy protocols.* <!--more-->
+> *With over 15 years of experience, I have cultivated a multifaceted professional journey that traverses the realms of Semiconductor Design Validation and System Software Development. At my current role in Intel, my tenure as a Senior IP Validation Engineer has been characterized by intricate involvement in the validation of critical IPs for Intel's forthcoming silicon innovations. My responsibilities primarily focused on validating High-Speed IO integral to the Xeon Server IP, adhering strictly to PCIe protocol specs to ensure compliance with Intel's quality benchmarks.* 
+*Gathered and defined requirements and test specifications for validation plans and Python-based test cases, aligning them with FPGA and Simics simulations. Proactively improved product testability, extendibility, and re-use within the validation process, implementing methodological enhancements for more efficient RTL drop validation. My primary ownership over the validation of IP Cache Coherency standards and Coherency protocols underscores my commitment to certifying seamless interoperability and functionality at the pre-silicon stage. In my preceding role at UST Global, as the Tech Lead and Senior Developer, I navigated the intricate world of technical project coordination. My ability to orchestrate the efforts of a team and ensure the timely completion of projects, underscores my leadership and organizational skills. The development of the 'System Mode and Redundancy' module, aligning with the EN50128 safety standard, demonstrates my mastery over intricate system transitions and redundancy protocols. My accomplishments include crafting modules adhering to functional safety standards, creating communication softwares, and implementing innovative test frameworks. My commitment to quality through design patterns, Agile practices, and industry standards highlights my well-rounded capabilities.*
+*In encapsulation, my professional journey paints a picture of an individual who has consistently evolved and excelled in diverse technology domains. My impact spans from the intricacies of semiconductor validation to the nuances of System Software Development, with my contributions leaving an indelible imprint on the projects I've been a part of. My mastery over tools, methodologies, and standards reflects my adaptability, while my capacity to tackle intricate challenges with tenacity and innovation showcases my intrinsic potential. My journey is a testament to unwavering dedication to the technology, and my future endeavors are bound to further enrich the landscapes I choose to explore.* <!--more-->
 
-> ## Kiran Puranik
-> **Email: mail2kpuranik@gmail.com**<br>
-> **Phone:** (on-request)<br>
-> **Location: Malaysia**<br>
+## Kiran Puranik
+**Email: mail2kpuranik@gmail.com**<br>
+**Phone:** (on-request)<br>
+**Location: Malaysia**<br>
 
 ## Skills:<br>
 **System Programming:** (12+ years) Linux & Unix based <br>
