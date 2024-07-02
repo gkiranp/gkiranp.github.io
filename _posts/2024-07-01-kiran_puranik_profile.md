@@ -15,10 +15,10 @@ tags: resume experience cv
 > #### Phone: (on-request)
 
 ## Skills:<br>
-> #### Silicon Validation:<br>
+> **Silicon Validation:**<br>
 > *Pre Silicon | RTL Debug | FPGA*<br>
 > (4+ years)<br>
-> #### System Programming:<br>
+> **System Programming:**<br>
 > *Linux & Unix based*<br>
 > (12+ years)<br>
 
@@ -28,22 +28,22 @@ tags: resume experience cv
 > Python (8+ years),<br> 
 > Qt 4.x/5.x (7+ years)<br>
 
-> #### Functional Safety (FuSa) Standards:<br>
+> **Functional Safety (FuSa) Standards:**<br>
 > *EN50128, IEC 61508, MISRA, Adaptive AUTOSAR*<br>
-> #### Design & Arch:<br>
+> **Design & Arch:**<br>
 > *PCIe 5.0/6.0, CXL 1.0, Intel Xeon Arch, x86 Arch, FPGA, Simics*<br>
 > *STL, UML2.0, Algorithms, Data Structure, Design Patterns, Multi-process, Multi-threading*<br>
-> #### Development:<br>
+> **Development:**<br>
 > *Agile, TDD, SDLC*<br>
-> #### Operating System:<br>
+> **Operating System:**<br>
 > *Linux, VxWorks, Windows*<br>
-> #### Build & Tools:<br>
+> **Build & Tools:**<br>
 > *Build - Cmake, Makefile*<br>
 > *Tools - GoogleCPPTest, Git, LDRA Testbed, JIRA*<br>
-> #### Project Management:<br>
+> **Project Management:**<br>
 > *Design FMEA, SOW, HLD, Architecture Design, Code Review, Requirement Analysis, Requirement Management*<br>
 
-> #### Soft skills:<br>
+> **Soft skills:**<br>
 > *Communication, Leadership, Adaptability, Problem Solving, Time Management, Teamwork, Patience, Critical Thinking*  
 
 ## Education:
@@ -54,8 +54,8 @@ tags: resume experience cv
 
 ## Experience:<br>
 **Intel (M) Sdn Bhd, Penang, Malaysia - IP Design Verification Engineer**<br>
-*NOVEMBER 2023 - PRESENT  [ IP Design Verification Engineer ]<br>
-*NOVEMBER 2021 - NOVEMBER 2023  [ SoC Design Engineer]<br>
+*NOVEMBER 2023 - PRESENT  [ IP Design Verification Engineer ]*<br>
+*NOVEMBER 2021 - NOVEMBER 2023  [ SoC Design Engineer]*<br>
 Role: Senior IP Validation Engineer | My responsibilities primarily focused on validating a High-Speed IO (HIOP: Host IO Processor), a vital component of the Xeon6 Server IP, I adhere rigorously to the PCIe 6.0 protocol specifications to guarantee compliance with industry standards and Intel's stringent quality benchmarks. My expertise extends to validating the IP's Cache Coherency standards and Coherency protocols, conducting primary-level RTL debugging utilizing Verdi-waveforms, and employing debugging logics across different Transactors and Bus Functional Models (BFMs).
 In addition to my core responsibilities, I've led the design and development of functional tests to measure hardened IP performance, covering bandwidth, latency, and frequency. I've also driven enhancements to our characterization methodology, ensuring it meets evolving product requirements and strengthens our approach.
 Adept at developing volume system test suites, I identify problem areas and manufacturing test coverage gaps, contributing significantly to the enhancement of overall test coverage.
@@ -64,8 +64,8 @@ Consistently recognized as an outstanding performer, I bring a wealth of experti
 Tools and Technologies: C++, Python-3, Git, FPGA, Simics, Verdi, Agile.
 
 **UST Global Sdn Bhd, Penang, Malaysia - Sr. Technical Analyst**<br>
-*APRIL 2019 - OCTOBER 2021 [ Senior Technical Analyst ]<br>
-*APRIL 2017 - MARCH 2019   [ Technical Analyst ]<br>
+*APRIL 2019 - OCTOBER 2021 [ Senior Technical Analyst ]*<br>
+*APRIL 2017 - MARCH 2019   [ Technical Analyst ]*<br>
 Role: Lead/Senior Developer | Responsible for coordinating with the team and making sure technical projects are completed and delivered in time. Also responsible for the design and developing C++ based embedded system safety-critical software in the Trainborne project. 
 Developed EN50128 safety  standard module ‘System Mode and Redundancy’ using C++, which handles different system modes of transitions, like normal, degraded, fail-safe modes, during runtime. Module also interacts with different components, like Health Monitor, Radio Comm etc, in-order to find health status and communication status, depending on which the module decides the operating mode. The module has a decision-making factor, which is programmed for a redundant system to take over if the running system breaks.
 Developed communication parser modules using C++, like Computer Aided Dispatch (CAD) parser, which interacts with external CAD system using Motorola DIMETRA radio network, for voice and data communication and also two communication protocol wrappers, TRCP Protocol Handler, TCI Protocol Handlers, which in underneath uses Motorola standard SBEP serial protocol to communicate with external interfaces like TETRA modem, TRCP hardware and for  communication between two TCI devices.
