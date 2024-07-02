@@ -11,21 +11,21 @@ tags: resume experience cv
 > *In my preceding role at UST Global, as the Tech Lead and Senior Developer, I navigated the intricate world of technical project coordination. My ability to orchestrate the efforts of a team and ensure the timely completion of projects, underscores my leadership and organizational skills. The development of the 'System Mode and Redundancy' module, aligning with the EN50128 safety standard, demonstrates my mastery over intricate system transitions and redundancy protocols.* <!--more-->
 
 > ## Kiran Puranik
-> **Email: mail2kpuranik@gmail.com**
-> **Phone:** (on-request)
-> **Location: Malaysia**
+> **Email: mail2kpuranik@gmail.com**<br>
+> **Phone:** (on-request)<br>
+> **Location: Malaysia**<br>
 
 ## Skills:<br>
-**System Programming:** (12+ years) Linux & Unix based
-**Silicon Validation:** (4+ years) Pre Silicon, RTL Debug, FPGA
-**Software Architecture & Project Management:** (5+ years) Architectural Patterns, Design Patterns, Performance Profiling and Optimization, Design FMEA, SOW, HLD, Architecture Design, Code Review, Requirement Analysis, Requirement Management
-**Programming Languages:** C++11 (8+ years), C++03 (13+ years), C (13+ years), Python (8+ years), Qt (7+ years)
-**Functional Safety (FuSa) Standards:** EN50128, IEC 61508, MISRA, Adaptive AUTOSAR
-**Silicon Architecture:** PCIe 5.0/6.0, CXL 1.0, Intel Xeon Arch, x86 Arch, FPGA
-**Software Development:** Agile, TDD, SDLC
-**Operating Systems:** Linux, VxWorks, Windows
-**Build & Tools:** Cmake, Makefile, GoogleCPPTest, Git, LDRA Testbed, JIRA
-**Soft Skills:** Communication, Leadership, Adaptability, Problem Solving, Time Management, Teamwork, Patience, Critical Thinking 
+**System Programming:** (12+ years) Linux & Unix based <br>
+**Silicon Validation:** (4+ years) Pre Silicon, RTL Debug, FPGA <br>
+**Software Architecture & Project Management:** (5+ years) Architectural Patterns, Design Patterns, Performance Profiling and Optimization, Design FMEA, SOW, HLD, Architecture Design, Code Review, Requirement Analysis, Requirement Management <br>
+**Programming Languages:** C++11 (8+ years), C++03 (13+ years), C (13+ years), Python (8+ years), Qt (7+ years) <br>
+**Functional Safety (FuSa) Standards:** EN50128, IEC 61508, MISRA, Adaptive AUTOSAR <br>
+**Silicon Architecture:** PCIe 5.0/6.0, CXL 1.0, Intel Xeon Arch, x86 Arch, FPGA <br>
+**Software Development:** Agile, TDD, SDLC <br>
+**Operating Systems:** Linux, VxWorks, Windows <br>
+**Build & Tools:** Cmake, Makefile, GoogleCPPTest, Git, LDRA Testbed, JIRA <br>
+**Soft Skills:** Communication, Leadership, Adaptability, Problem Solving, Time Management, Teamwork, Patience, Critical Thinking <br>
 
 ## Education:
 **Visvesvaraya Technological University, Belgaum, Karnataka, India**<br>
@@ -37,7 +37,7 @@ tags: resume experience cv
 **Intel (M) Sdn Bhd, Penang, Malaysia - IP Design Verification Engineer**<br>
 *NOVEMBER 2023 - PRESENT  [ IP Design Verification Engineer ]*<br>
 *NOVEMBER 2021 - NOVEMBER 2023  [ SoC Design Engineer]*<br>
-Role: Senior IP Validation Engineer | My responsibilities primarily focused on validating High-Speed IO (HIOP: Host IO Processor) integral to the Xeon6 Server IP, adhering strictly to PCIe 6.0 protocol specifications to ensure compliance with industry standards and Intel's quality benchmarks. Gathered and defined requirements and test specifications for validation plans and Python-based test cases, aligning them with FPGA and Simics simulation requirements. Proactively improved product testability, extendibility, and re-use within the validation process, implementing methodological enhancements for more efficient RTL drop validation. Designed and implemented an efficient, clean, and easily testable validation framework in Python and C++ using object-oriented design patterns, ensuring robustness and maintainability of the framework. My expertise extends to validating IP's Cache Coherency standards and Coherency protocols, conducting primary-level RTL debugging with Verdi-waveforms, and utilizing debugging logics across various Transactors (XTORs) and Bus Functional Models (BFMs).
+Role: Senior IP Verification Engineer | My responsibilities primarily focused on validating High-Speed IO (HIOP: Host IO Processor) integral to the Xeon6 Server IP, adhering strictly to PCIe 6.0 protocol specifications to ensure compliance with industry standards and Intel's quality benchmarks. Gathered and defined requirements and test specifications for validation plans and Python-based test cases, aligning them with FPGA and Simics simulation requirements. Proactively improved product testability, extendibility, and re-use within the validation process, implementing methodological enhancements for more efficient RTL drop validation. Designed and implemented an efficient, clean, and easily testable validation framework in Python and C++ using object-oriented design patterns, ensuring robustness and maintainability of the framework. My expertise extends to validating IP's Cache Coherency standards and Coherency protocols, conducting primary-level RTL debugging with Verdi-waveforms, and utilizing debugging logics across various Transactors (XTORs) and Bus Functional Models (BFMs).
 In addition to my core responsibilities, I've led the design and development of functional tests to measure hardened IP performance, covering bandwidth and latency.
 Adept at developing volume system test suites, I identify problem areas and test coverage gaps, contributing significantly to the enhancement of overall test coverage.
 As a proactive leader, I engage in knowledge-sharing sessions, contributing insights on protocols, coherency, and programming. Consistently recognized as an outstanding performer, I bring a wealth of expertise and dedication to every aspect of my role.<br>
